@@ -72,7 +72,7 @@
 
 
 // motor spinning direction
-#define REVERSE 1 //1 for original M365 motor
+#define REVERSE 0 //1 for original M365 motor
 
 // settings for speed PLL (angle estimation)
 #define SPEED_PLL 1 //1 for using PLL, 0 for angle extrapolation
