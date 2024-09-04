@@ -63,7 +63,7 @@
 #define FW_CURRENT_MAX 18000 //max id
 
 // maximum battery currents in mA
-#define BATTERYCURRENT_MAX 14500
+#define BATTERYCURRENT_MAX 15000
 #define REGEN_CURRENT_MAX 10000
 
 // battery voltage limits in mV
